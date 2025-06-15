@@ -11,7 +11,7 @@ global.botscript = process.env.BOTSCRIPT || "https://github.com/KaviDeveloperSe/
 global.packname = process.env.PACKNAME || "KAVI-X MD"
 global.author = process.env.AUTHOR || "Cyber Kavi"
 global.creator = process.env.CREATOR || "94702128378@s.whatsapp.net"
-global.botprefix = process.env.BOTPREFIX || "."
+global.botprefix = process.env.BOTPREFIX || ","
 global.restart = process.env.RESTART || true
 global.mongoDB = process.env.MONGODB_URI || "mongodb+srv://denit778:OsjM0zHvEh1B5YnL@cluster0.35igjbn.mongodb.net/"
 
